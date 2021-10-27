@@ -17,3 +17,10 @@ This Repo Contains My Project related to Cybersecurity assignment for Nasscom  c
 
 # Cybersecurity Skill Certification from Cisco.
 View Profile: https://www.netacad.com/portal/profile/1026605085
+
+# Case Study Books and Blogs (For reference)-
+1) Pyramid:A case study on India's Cybersecurity.
+https://www.researchgate.net/publication/279871441_Pyramid_A_Case_Study_of_Cyber_Security_in_India
+2) 5 Biggest Cyber Attacks On India.
+https://www.kratikal.com/blog/5-biggest-cyber-attacks-in-india/
+
